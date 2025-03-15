@@ -2,6 +2,9 @@
 
 ## Overview
 The **Personal Library Manager** is a simple command-line application that allows users to manage their book collection efficiently. It provides features to add, remove, search, display books, and track reading status. The library data is stored in a JSON file to persist book details between sessions.
+## About Versions
+version: 1.0 ("CLI version")
+version: 2.0 ("Streamlit version")
 
 ## Features
 - **Add a Book:** Users can add books with details like title, author, publication year, genre, ISBN, barcode, and read status.
