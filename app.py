@@ -49,14 +49,13 @@ manager = PersonalLibraryManager()
 # Sidebar with developer info and version history
 with st.sidebar:
     st.header("ℹ️ Developer Info")
-    st.write("**Developer:** Fahad Khakwani")
-    st.write("**LinkedIn:** [Library Manager](https://www.linkedin.com/in/fahad-khakwani-3aa655265/)")
-    st.write("**Streamlit:** [Streamlit]()")
-    st.write("**Contact:** fahadyousufkhakwani@gmail.com")
+    st.write("**Developer :** Fahad Khakwani")
+    st.write("**LinkedIn :** [Profile](https://www.linkedin.com/in/fahad-khakwani-3aa655265/)")
+    st.write("**Contact :** fahadyousufkhakwani@gmail.com")
     
     st.header("📜 About Versions")
-    st.write("- **Version 1.0:** CLI version")
-    st.write("- **Version 2.0:** Streamlit version")
+    st.write("- **Version 1.0 :** [CLI version-LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7306613538993692672/)")
+    st.write("- **Version 2.0 :** [Streamlit version](https://fahad-fullstackdeveloper-personal-library-app-aeaauq.streamlit.app/)")
 
 # Add Book
 with st.expander("➕ Add a Book"):
