@@ -1,0 +1,524 @@
+[
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "year": 1960,
+      "ISBN": "978-0061120084",
+      "barcode": "1000000000001",
+      "read": true
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "year": 1949,
+      "ISBN": "978-0451524935",
+      "barcode": "1000000000002",
+      "read": false
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Classic",
+      "year": 1925,
+      "ISBN": "978-0743273565",
+      "barcode": "1000000000003",
+      "read": true
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "year": 1813,
+      "ISBN": "978-1503290563",
+      "barcode": "1000000000004",
+      "read": false
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Fiction",
+      "year": 1951,
+      "ISBN": "978-0316769488",
+      "barcode": "1000000000005",
+      "read": true
+    },
+    {
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "genre": "Adventure",
+      "year": 1851,
+      "ISBN": "978-1503280786",
+      "barcode": "1000000000006",
+      "read": false
+    },
+    {
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "genre": "Historical Fiction",
+      "year": 1869,
+      "ISBN": "978-1400079988",
+      "barcode": "1000000000007",
+      "read": false
+    },
+    {
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "genre": "Psychological Fiction",
+      "year": 1866,
+      "ISBN": "978-0486415871",
+      "barcode": "1000000000008",
+      "read": true
+    },
+    {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "year": 1954,
+      "ISBN": "978-0618640157",
+      "barcode": "1000000000009",
+      "read": true
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "year": 1937,
+      "ISBN": "978-0547928227",
+      "barcode": "1000000000010",
+      "read": false
+    },
+    {
+      "title": "Harry Potter and the Sorcerer’s Stone",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "year": 1997,
+      "ISBN": "978-0590353427",
+      "barcode": "1000000000011",
+      "read": true
+    },
+    {
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt, David Thomas",
+      "genre": "Programming",
+      "year": 1999,
+      "ISBN": "978-0201616224",
+      "barcode": "1000000000012",
+      "read": true
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "genre": "Dystopian",
+      "year": 1932,
+      "ISBN": "978-0060850524",
+      "barcode": "1000000000013",
+      "read": false
+    },
+    {
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "genre": "Historical Fiction",
+      "year": 2005,
+      "ISBN": "978-0375842207",
+      "barcode": "1000000000014",
+      "read": true
+    },
+    {
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "genre": "Dystopian",
+      "year": 1953,
+      "ISBN": "978-1451673319",
+      "barcode": "1000000000015",
+      "read": true
+    },
+    {
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "genre": "Post-Apocalyptic",
+      "year": 2006,
+      "ISBN": "978-0307387899",
+      "barcode": "1000000000016",
+      "read": false
+    },
+    {
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "Programming",
+      "year": 2008,
+      "ISBN": "978-0132350884",
+      "barcode": "1000000000017",
+      "read": false
+    },
+    {
+      "title": "Educated",
+      "author": "Tara Westover",
+      "genre": "Memoir",
+      "year": 2018,
+      "ISBN": "978-0399590504",
+      "barcode": "1000000000018",
+      "read": true
+    },
+    {
+      "title": "The Night Circus",
+      "author": "Erin Morgenstern",
+      "genre": "Fantasy",
+      "year": 2011,
+      "ISBN": "978-0307744432",
+      "barcode": "1000000000019",
+      "read": false
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-Help",
+      "year": 2018,
+      "ISBN": "978-0735211292",
+      "barcode": "1000000000020",
+      "read": true
+    },
+    {
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "genre": "Self-Help",
+      "year": 2016,
+      "ISBN": "978-0062457714",
+      "barcode": "1000000000021",
+      "read": false
+    },
+    {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "genre": "Science Fiction",
+      "year": 1965,
+      "ISBN": "978-0441013593",
+      "barcode": "1000000000022",
+      "read": true
+    },
+    {
+      "title": "The Hitchhiker’s Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "genre": "Science Fiction",
+      "year": 1979,
+      "ISBN": "978-0345391803",
+      "barcode": "1000000000023",
+      "read": false
+    },
+    {
+      "title": "The Name of the Wind",
+      "author": "Patrick Rothfuss",
+      "genre": "Fantasy",
+      "year": 2007,
+      "ISBN": "978-0756404741",
+      "barcode": "1000000000024",
+      "read": true
+    },
+    {
+      "title": "The Shadow of the Wind",
+      "author": "Carlos Ruiz Zafón",
+      "genre": "Mystery",
+      "year": 2001,
+      "ISBN": "978-0143126393",
+      "barcode": "1000000000025",
+      "read": true
+    },
+    {
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "genre": "Psychological Thriller",
+      "year": 2019,
+      "ISBN": "978-1250301697",
+      "barcode": "1000000000026",
+      "read": false
+    },
+    {
+      "title": "Where the Crawdads Sing",
+      "author": "Delia Owens",
+      "genre": "Mystery",
+      "year": 2018,
+      "ISBN": "978-0735219090",
+      "barcode": "1000000000027",
+      "read": false
+    },
+    {
+      "title": "It Ends with Us",
+      "author": "Colleen Hoover",
+      "genre": "Romance",
+      "year": 2016,
+      "ISBN": "978-1501110368",
+      "barcode": "1000000000028",
+      "read": true
+    },
+    {
+      "title": "Verity",
+      "author": "Colleen Hoover",
+      "genre": "Thriller",
+      "year": 2018,
+      "ISBN": "978-1791392796",
+      "barcode": "1000000000029",
+      "read": false
+    },
+    {
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "genre": "Science Fiction",
+      "year": 2021,
+      "ISBN": "978-0593135201",
+      "barcode": "1000000000030",
+      "read": true
+    },
+    {
+      "title": "Circe",
+      "author": "Madeline Miller",
+      "genre": "Fantasy",
+      "year": 2018,
+      "ISBN": "978-0316556323",
+      "barcode": "1000000000031",
+      "read": false
+    },
+    {
+      "title": "The House in the Cerulean Sea",
+      "author": "TJ Klune",
+      "genre": "Fantasy",
+      "year": 2020,
+      "ISBN": "978-1250217318",
+      "barcode": "1000000000032",
+      "read": true
+    },
+    {
+      "title": "A Man Called Ove",
+      "author": "Fredrik Backman",
+      "genre": "Fiction",
+      "year": 2012,
+      "ISBN": "978-1476738024",
+      "barcode": "1000000000033",
+      "read": true
+    },
+    {
+      "title": "Becoming",
+      "author": "Michelle Obama",
+      "genre": "Memoir",
+      "year": 2018,
+      "ISBN": "978-1524763138",
+      "barcode": "1000000000034",
+      "read": false
+    },
+    {
+      "title": "The Four Agreements",
+      "author": "Don Miguel Ruiz",
+      "genre": "Self-Help",
+      "year": 1997,
+      "ISBN": "978-1878424310",
+      "barcode": "1000000000035",
+      "read": true
+    },
+    {
+      "title": "The Power of Now",
+      "author": "Eckhart Tolle",
+      "genre": "Spirituality",
+      "year": 1997,
+      "ISBN": "978-1577314806",
+      "barcode": "1000000000036",
+      "read": false
+    },
+    {
+      "title": "The Richest Man in Babylon",
+      "author": "George S. Clason",
+      "genre": "Finance",
+      "year": 1926,
+      "ISBN": "978-0451205360",
+      "barcode": "1000000000037",
+      "read": true
+    },
+    {
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "genre": "Finance",
+      "year": 1997,
+      "ISBN": "978-1612680194",
+      "barcode": "1000000000038",
+      "read": true
+    },
+    {
+      "title": "The Intelligent Investor",
+      "author": "Benjamin Graham",
+      "genre": "Finance",
+      "year": 1949,
+      "ISBN": "978-0060555665",
+      "barcode": "1000000000039",
+      "read": false
+    },
+    {
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "genre": "Finance",
+      "year": 2020,
+      "ISBN": "978-0857197689",
+      "barcode": "1000000000040",
+      "read": true
+    },
+    {
+      "title": "Good to Great",
+      "author": "Jim Collins",
+      "genre": "Business",
+      "year": 2001,
+      "ISBN": "978-0066620992",
+      "barcode": "1000000000041",
+      "read": false
+    },
+    {
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "genre": "Business",
+      "year": 2011,
+      "ISBN": "978-0307887894",
+      "barcode": "1000000000042",
+      "read": true
+    },
+    {
+      "title": "Zero to One",
+      "author": "Peter Thiel",
+      "genre": "Business",
+      "year": 2014,
+      "ISBN": "978-0804139298",
+      "barcode": "1000000000043",
+      "read": false
+    },
+    {
+      "title": "The Hard Thing About Hard Things",
+      "author": "Ben Horowitz",
+      "genre": "Business",
+      "year": 2014,
+      "ISBN": "978-0062273208",
+      "barcode": "1000000000044",
+      "read": true
+    },
+    {
+      "title": "Start with Why",
+      "author": "Simon Sinek",
+      "genre": "Leadership",
+      "year": 2009,
+      "ISBN": "978-1591846444",
+      "barcode": "1000000000045",
+      "read": false
+    },
+    {
+      "title": "Drive: The Surprising Truth About What Motivates Us",
+      "author": "Daniel H. Pink",
+      "genre": "Psychology",
+      "year": 2009,
+      "ISBN": "978-1594484803",
+      "barcode": "1000000000046",
+      "read": true
+    },
+    {
+      "title": "Grit: The Power of Passion and Perseverance",
+      "author": "Angela Duckworth",
+      "genre": "Psychology",
+      "year": 2016,
+      "ISBN": "978-1501111112",
+      "barcode": "1000000000047",
+      "read": false
+    },
+    {
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "genre": "Psychology",
+      "year": 2011,
+      "ISBN": "978-0374533557",
+      "barcode": "1000000000048",
+      "read": false
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "year": 1988,
+      "ISBN": "978-0062315007",
+      "barcode": "1000000000049",
+      "read": true
+    },
+    {
+      "title": "The 5 AM Club",
+      "author": "Robin Sharma",
+      "genre": "Self-Help",
+      "year": 2018,
+      "ISBN": "978-1443456623",
+      "barcode": "1000000000050",
+      "read": false
+    },
+    {
+      "title": "Can't Hurt Me",
+      "author": "David Goggins",
+      "genre": "Memoir",
+      "year": 2018,
+      "ISBN": "978-1544507859",
+      "barcode": "1000000000051",
+      "read": false
+    },
+    {
+      "title": "Daring Greatly",
+      "author": "Brené Brown",
+      "genre": "Self-Help",
+      "year": 2012,
+      "ISBN": "978-1592407330",
+      "barcode": "1000000000052",
+      "read": false
+    },
+    {
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "genre": "Productivity",
+      "year": 2016,
+      "ISBN": "978-1455586691",
+      "barcode": "1000000000053",
+      "read": true
+    },
+    {
+      "title": "The 48 Laws of Power",
+      "author": "Robert Greene",
+      "genre": "Business",
+      "year": 1998,
+      "ISBN": "978-0140280197",
+      "barcode": "1000000000054",
+      "read": false
+    },
+    {
+      "title": "The 10X Rule",
+      "author": "Grant Cardone",
+      "genre": "Business",
+      "year": 2011,
+      "ISBN": "978-0470627600",
+      "barcode": "1000000000055",
+      "read": true
+    },
+    {
+      "title": "The Millionaire Next Door",
+      "author": "Thomas J. Stanley",
+      "genre": "Finance",
+      "year": 1996,
+      "ISBN": "978-1589795471",
+      "barcode": "1000000000056",
+      "read": false
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "genre": "History",
+      "year": 2011,
+      "ISBN": "978-0062316097",
+      "barcode": "1000000000057",
+      "read": true
+    },
+    {
+      "title": "Homo Deus: A Brief History of Tomorrow",
+      "author": "Yuval Noah Harari",
+      "genre": "History",
+      "year": 2016,
+      "ISBN": "978-0062464316",
+      "barcode": "1000000000058",
+      "read": false
+    }
+]
