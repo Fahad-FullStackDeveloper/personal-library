@@ -1,5 +1,23 @@
 import streamlit as st
 import json
+import base64
+import logging
+
+def set_background(image_file):
+    """Set background image."""
+    with open(image_file, "rb") as img_file:
+        encoded_string = base64.b64encode(img_file.read()).decode()
+    css = f"""
+    <style>
+    .stApp {{
+        background-image: url("data:image/jpg;base64,{encoded_string}");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }}
+    </style>
+    """
+    st.markdown(css, unsafe_allow_html=True)
 
 class PersonalLibraryManager:
     def __init__(self, filename="library.json"):
@@ -31,8 +49,8 @@ class PersonalLibraryManager:
         self.save_library()
 
     def search_books(self, keyword):
-        """Search for a book by title, author, ISBN, or Barcode."""
-        return [book for book in self.library if keyword.lower() in book.get("title", "").lower() or keyword.lower() in book.get("author", "").lower() or keyword.lower() in book.get("isbn", "").lower() or keyword.lower() in book.get("barcode", "").lower()]
+        """Search for a book by title, author, genre, ISBN, or Barcode."""
+        return [book for book in self.library if keyword.lower() in book.get("title", "").lower() or keyword.lower() in book.get("author", "").lower() or keyword.lower() in book.get("genre", "").lower() or keyword.lower() in book.get("isbn", "").lower() or keyword.lower() in book.get("barcode", "").lower()]
 
     def get_statistics(self):
         """Show statistics about the library."""
@@ -51,13 +69,15 @@ with st.sidebar:
     st.header("ℹ️ Developer Info")
     st.write("**Developer :** Fahad Khakwani")
     st.write("**LinkedIn :** [Profile](https://www.linkedin.com/in/fahad-khakwani-3aa655265/)")
-    st.write("**Contact :** fahadyousufkhakwani@gmail.com")
+    st.write("**Contact :** [Email](fahadyousufkhakwani@gmail.com)")
+    st.write("**Mobile :** [Whatsapp](+92-312-9092620)")
     
     st.header("📜 About Versions")
-    st.write("- **Version 1.0 :** [CLI version-LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7306613538993692672/)")
-    st.write("- **Version 2.0 :** [Streamlit version](https://fahad-fullstackdeveloper-personal-library-app-aeaauq.streamlit.app/)")
+    st.write("- **Version 1.0 :** [CLI_GitHub](https://github.com/Fahad-FullStackDeveloper/personal-library)")
+    st.write("- **Version 2.1 :** [Streamlit](https://fahad-fullstackdeveloper-personal-library-app-aeaauq.streamlit.app/)")
 
 # Add Book
+set_background("background.jpg")
 with st.expander("➕ Add a Book"):
     title = st.text_input("Title")
     author = st.text_input("Author")
@@ -81,7 +101,7 @@ with st.expander("❌ Remove a Book"):
 
 # Search Book
 with st.expander("🔍 Search for a Book"):
-    search_keyword = st.text_input("Enter title, author, ISBN, or Barcode")
+    search_keyword = st.text_input("Enter title, author, genre, ISBN, or Barcode")
     if search_keyword:
         results = manager.search_books(search_keyword)
         if results:

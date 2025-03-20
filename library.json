@@ -448,8 +448,8 @@
       "ISBN": "978-1443456623",
       "barcode": "1000000000050",
       "read": false
-    },
-    {
+   },
+  {
       "title": "Can't Hurt Me",
       "author": "David Goggins",
       "genre": "Memoir",
@@ -457,8 +457,8 @@
       "ISBN": "978-1544507859",
       "barcode": "1000000000051",
       "read": false
-    },
-    {
+  },
+  {
       "title": "Daring Greatly",
       "author": "Brené Brown",
       "genre": "Self-Help",
@@ -466,8 +466,8 @@
       "ISBN": "978-1592407330",
       "barcode": "1000000000052",
       "read": false
-    },
-    {
+  },
+  {
       "title": "Deep Work",
       "author": "Cal Newport",
       "genre": "Productivity",
@@ -475,8 +475,8 @@
       "ISBN": "978-1455586691",
       "barcode": "1000000000053",
       "read": true
-    },
-    {
+  },
+  {
       "title": "The 48 Laws of Power",
       "author": "Robert Greene",
       "genre": "Business",
@@ -484,8 +484,8 @@
       "ISBN": "978-0140280197",
       "barcode": "1000000000054",
       "read": false
-    },
-    {
+  },
+  {
       "title": "The 10X Rule",
       "author": "Grant Cardone",
       "genre": "Business",
@@ -493,8 +493,8 @@
       "ISBN": "978-0470627600",
       "barcode": "1000000000055",
       "read": true
-    },
-    {
+  },
+  {
       "title": "The Millionaire Next Door",
       "author": "Thomas J. Stanley",
       "genre": "Finance",
@@ -502,8 +502,8 @@
       "ISBN": "978-1589795471",
       "barcode": "1000000000056",
       "read": false
-    },
-    {
+  },
+  {
       "title": "Sapiens: A Brief History of Humankind",
       "author": "Yuval Noah Harari",
       "genre": "History",
@@ -511,8 +511,8 @@
       "ISBN": "978-0062316097",
       "barcode": "1000000000057",
       "read": true
-    },
-    {
+  },
+  {
       "title": "Homo Deus: A Brief History of Tomorrow",
       "author": "Yuval Noah Harari",
       "genre": "History",
@@ -520,5 +520,554 @@
       "ISBN": "978-0062464316",
       "barcode": "1000000000058",
       "read": false
-    }
+  },
+  {
+      "title": "The Sealed Nectar",
+      "author": "Safi-ur-Rahman al-Mubarakpuri",
+      "genre": "Biography",
+      "year": 1979,
+      "ISBN": "978-1591440710",
+      "barcode": "1000000000059",
+      "read": false
+  },
+  {
+      "title": "In the Footsteps of the Prophet",
+      "author": "Tariq Ramadan",
+      "genre": "Biography",
+      "year": 2007,
+      "ISBN": "978-0195374766",
+      "barcode": "1000000000060",
+      "read": false
+  },
+  {
+      "title": "Muhammad: His Life Based on the Earliest Sources",
+      "author": "Martin Lings",
+      "genre": "Biography",
+      "year": 1983,
+      "ISBN": "978-1594771538",
+      "barcode": "1000000000061",
+      "read": false
+  },
+  {
+      "title": "Fortress of the Muslim",
+      "author": "Saeed bin Ali bin Wahf Al-Qahtani",
+      "genre": "Dua & Supplication",
+      "year": 1989,
+      "ISBN": "978-9960892641",
+      "barcode": "1000000000062",
+      "read": false
+  },
+  {
+      "title": "The Quran",
+      "author": "Allah (translated by Abdullah Yusuf Ali)",
+      "genre": "Religious Text",
+      "year": 610,
+      "ISBN": "978-8171512181",
+      "barcode": "1000000000063",
+      "read": true
+  },
+  {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Bukhari",
+      "genre": "Hadith",
+      "year": 846,
+      "ISBN": "978-1567445190",
+      "barcode": "1000000000064",
+      "read": true
+  },
+  {
+      "title": "Sahih Muslim",
+      "author": "Imam Muslim",
+      "genre": "Hadith",
+      "year": 875,
+      "ISBN": "978-1567445191",
+      "barcode": "1000000000065",
+      "read": true
+  },
+  {
+      "title": "Riyad-us-Saliheen",
+      "author": "Imam Nawawi",
+      "genre": "Hadith",
+      "year": 1277,
+      "ISBN": "978-1591440536",
+      "barcode": "1000000000066",
+      "read": false
+  },
+  {
+      "title": "Fiqh-us-Sunnah",
+      "author": "As-Sayyid Sabiq",
+      "genre": "Fiqh",
+      "year": 1969,
+      "ISBN": "978-0915957755",
+      "barcode": "1000000000067",
+      "read": false
+  },
+  {
+      "title": "Tafsir Ibn Kathir",
+      "author": "Ibn Kathir",
+      "genre": "Tafsir",
+      "year": 1373,
+      "ISBN": "978-1591440413",
+      "barcode": "1000000000068",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 9",
+      "author": "Author 9",
+      "genre": "Islamic Studies",
+      "year": 2009,
+      "ISBN": "978-000000009",
+      "barcode": "1000000000069",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 10",
+      "author": "Author 10",
+      "genre": "Islamic Studies",
+      "year": 2010,
+      "ISBN": "978-0000000010",
+      "barcode": "1000000000070",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 11",
+      "author": "Author 11",
+      "genre": "Islamic Studies",
+      "year": 2011,
+      "ISBN": "978-0000000011",
+      "barcode": "1000000000071",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 12",
+      "author": "Author 12",
+      "genre": "Islamic Studies",
+      "year": 2012,
+      "ISBN": "978-0000000012",
+      "barcode": "1000000000072",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 13",
+      "author": "Author 13",
+      "genre": "Islamic Studies",
+      "year": 2013,
+      "ISBN": "978-0000000013",
+      "barcode": "1000000000073",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 14",
+      "author": "Author 14",
+      "genre": "Islamic Studies",
+      "year": 2014,
+      "ISBN": "978-0000000014",
+      "barcode": "1000000000074",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 15",
+      "author": "Author 15",
+      "genre": "Islamic Studies",
+      "year": 2015,
+      "ISBN": "978-0000000015",
+      "barcode": "1000000000075",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 16",
+      "author": "Author 16",
+      "genre": "Islamic Studies",
+      "year": 2016,
+      "ISBN": "978-0000000016",
+      "barcode": "1000000000076",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 17",
+      "author": "Author 17",
+      "genre": "Islamic Studies",
+      "year": 2017,
+      "ISBN": "978-0000000017",
+      "barcode": "1000000000077",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 18",
+      "author": "Author 18",
+      "genre": "Islamic Studies",
+      "year": 2018,
+      "ISBN": "978-0000000018",
+      "barcode": "1000000000078",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 19",
+      "author": "Author 19",
+      "genre": "Islamic Studies",
+      "year": 2019,
+      "ISBN": "978-0000000019",
+      "barcode": "1000000000079",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 20",
+      "author": "Author 20",
+      "genre": "Islamic Studies",
+      "year": 2000,
+      "ISBN": "978-0000000020",
+      "barcode": "1000000000080",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 21",
+      "author": "Author 21",
+      "genre": "Islamic Studies",
+      "year": 2001,
+      "ISBN": "978-0000000021",
+      "barcode": "1000000000081",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 22",
+      "author": "Author 22",
+      "genre": "Islamic Studies",
+      "year": 2002,
+      "ISBN": "978-0000000022",
+      "barcode": "1000000000082",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 23",
+      "author": "Author 23",
+      "genre": "Islamic Studies",
+      "year": 2003,
+      "ISBN": "978-0000000023",
+      "barcode": "1000000000083",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 24",
+      "author": "Author 24",
+      "genre": "Islamic Studies",
+      "year": 2004,
+      "ISBN": "978-0000000024",
+      "barcode": "1000000000084",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 25",
+      "author": "Author 25",
+      "genre": "Islamic Studies",
+      "year": 2005,
+      "ISBN": "978-0000000025",
+      "barcode": "1000000000085",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 26",
+      "author": "Author 26",
+      "genre": "Islamic Studies",
+      "year": 2006,
+      "ISBN": "978-0000000026",
+      "barcode": "1000000000086",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 27",
+      "author": "Author 27",
+      "genre": "Islamic Studies",
+      "year": 2007,
+      "ISBN": "978-0000000027",
+      "barcode": "1000000000087",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 28",
+      "author": "Author 28",
+      "genre": "Islamic Studies",
+      "year": 2008,
+      "ISBN": "978-0000000028",
+      "barcode": "1000000000088",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 29",
+      "author": "Author 29",
+      "genre": "Islamic Studies",
+      "year": 2009,
+      "ISBN": "978-0000000029",
+      "barcode": "1000000000089",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 30",
+      "author": "Author 30",
+      "genre": "Islamic Studies",
+      "year": 2010,
+      "ISBN": "978-0000000030",
+      "barcode": "1000000000090",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 31",
+      "author": "Author 31",
+      "genre": "Islamic Studies",
+      "year": 2011,
+      "ISBN": "978-0000000031",
+      "barcode": "1000000000091",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 32",
+      "author": "Author 32",
+      "genre": "Islamic Studies",
+      "year": 2012,
+      "ISBN": "978-0000000032",
+      "barcode": "1000000000092",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 33",
+      "author": "Author 33",
+      "genre": "Islamic Studies",
+      "year": 2013,
+      "ISBN": "978-0000000033",
+      "barcode": "1000000000093",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 34",
+      "author": "Author 34",
+      "genre": "Islamic Studies",
+      "year": 2014,
+      "ISBN": "978-0000000034",
+      "barcode": "1000000000094",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 35",
+      "author": "Author 35",
+      "genre": "Islamic Studies",
+      "year": 2015,
+      "ISBN": "978-0000000035",
+      "barcode": "1000000000095",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 36",
+      "author": "Author 36",
+      "genre": "Islamic Studies",
+      "year": 2016,
+      "ISBN": "978-0000000036",
+      "barcode": "1000000000096",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 37",
+      "author": "Author 37",
+      "genre": "Islamic Studies",
+      "year": 2017,
+      "ISBN": "978-0000000037",
+      "barcode": "1000000000097",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 38",
+      "author": "Author 38",
+      "genre": "Islamic Studies",
+      "year": 2018,
+      "ISBN": "978-0000000038",
+      "barcode": "1000000000098",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 39",
+      "author": "Author 39",
+      "genre": "Islamic Studies",
+      "year": 2019,
+      "ISBN": "978-0000000039",
+      "barcode": "1000000000099",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 40",
+      "author": "Author 40",
+      "genre": "Islamic Studies",
+      "year": 2000,
+      "ISBN": "978-0000000040",
+      "barcode": "1000000000100",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 41",
+      "author": "Author 41",
+      "genre": "Islamic Studies",
+      "year": 2001,
+      "ISBN": "978-0000000041",
+      "barcode": "1000000000101",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 42",
+      "author": "Author 42",
+      "genre": "Islamic Studies",
+      "year": 2002,
+      "ISBN": "978-0000000042",
+      "barcode": "1000000000102",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 43",
+      "author": "Author 43",
+      "genre": "Islamic Studies",
+      "year": 2003,
+      "ISBN": "978-0000000043",
+      "barcode": "1000000000103",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 44",
+      "author": "Author 44",
+      "genre": "Islamic Studies",
+      "year": 2004,
+      "ISBN": "978-0000000044",
+      "barcode": "1000000000104",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 45",
+      "author": "Author 45",
+      "genre": "Islamic Studies",
+      "year": 2005,
+      "ISBN": "978-0000000045",
+      "barcode": "1000000000105",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 46",
+      "author": "Author 46",
+      "genre": "Islamic Studies",
+      "year": 2006,
+      "ISBN": "978-0000000046",
+      "barcode": "1000000000106",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 47",
+      "author": "Author 47",
+      "genre": "Islamic Studies",
+      "year": 2007,
+      "ISBN": "978-0000000047",
+      "barcode": "1000000000107",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 48",
+      "author": "Author 48",
+      "genre": "Islamic Studies",
+      "year": 2008,
+      "ISBN": "978-0000000048",
+      "barcode": "1000000000108",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 49",
+      "author": "Author 49",
+      "genre": "Islamic Studies",
+      "year": 2009,
+      "ISBN": "978-0000000049",
+      "barcode": "1000000000109",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 50",
+      "author": "Author 50",
+      "genre": "Islamic Studies",
+      "year": 2010,
+      "ISBN": "978-0000000050",
+      "barcode": "1000000000110",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 51",
+      "author": "Author 51",
+      "genre": "Islamic Studies",
+      "year": 2011,
+      "ISBN": "978-0000000051",
+      "barcode": "1000000000111",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 52",
+      "author": "Author 52",
+      "genre": "Islamic Studies",
+      "year": 2012,
+      "ISBN": "978-0000000052",
+      "barcode": "1000000000112",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 53",
+      "author": "Author 53",
+      "genre": "Islamic Studies",
+      "year": 2013,
+      "ISBN": "978-0000000053",
+      "barcode": "1000000000113",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 54",
+      "author": "Author 54",
+      "genre": "Islamic Studies",
+      "year": 2014,
+      "ISBN": "978-0000000054",
+      "barcode": "1000000000114",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 55",
+      "author": "Author 55",
+      "genre": "Islamic Studies",
+      "year": 2015,
+      "ISBN": "978-0000000055",
+      "barcode": "1000000000115",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 56",
+      "author": "Author 56",
+      "genre": "Islamic Studies",
+      "year": 2016,
+      "ISBN": "978-0000000056",
+      "barcode": "1000000000116",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 57",
+      "author": "Author 57",
+      "genre": "Islamic Studies",
+      "year": 2017,
+      "ISBN": "978-0000000057",
+      "barcode": "1000000000117",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 58",
+      "author": "Author 58",
+      "genre": "Islamic Studies",
+      "year": 2018,
+      "ISBN": "978-0000000058",
+      "barcode": "1000000000118",
+      "read": false
+  },
+  {
+      "title": "Islamic Book 59",
+      "author": "Author 59",
+      "genre": "Islamic Studies",
+      "year": 2019,
+      "ISBN": "978-0000000059",
+      "barcode": "1000000000119",
+      "read": false
+  }
 ]
